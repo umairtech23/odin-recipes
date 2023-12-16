@@ -13,3 +13,12 @@ body {
     margin: 5px 0 5px 0;
 }
 
+a {
+    border: 5px solid white;
+    padding: 5px;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
